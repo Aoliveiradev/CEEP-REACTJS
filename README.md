@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="CEEP NOTE" src="/github/screenshots/ceeplogo.png" />
+    <img alt="CEEP NOTE" src="/github/screenshots/ceeplogo.png" size= "50%" />
 </h1>
 
 <h3 align="center">
