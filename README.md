@@ -25,7 +25,7 @@
 
 ## 💻 Sobre o projeto
 
-:electron: CEEP - É uma APP onde você pode utilizar como Notepad na sua pagina ou AppWeb. 
+⚛️ CEEP - É uma APP onde você pode utilizar como Notepad na sua pagina ou AppWeb. 
 
 Projeto desenvolvido durante a **Aulas de ReactJS** oferecida pela [Alura](https://cursos.alura.com.br/course/react-ciclo-de-vida).
 
