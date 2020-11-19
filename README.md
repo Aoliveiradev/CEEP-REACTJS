@@ -1,68 +1,112 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center" >
+    <img alt="Logo Proffy" src="/github/screenshots/logo.png" />
+</h1>
 
-In the project directory, you can run:
+<h3 align="center">
+    📖 Sua plataforma de estudos online
+</h3>
 
-### `npm start`
+<p align="center">
+  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-discovery?color=%2304D361">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-discovery">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <a href="https://github.com/grioos/README-proffy-discovery/commits/master">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-discovery?color=%4d0000">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
+   <a href="https://github.com/grioos/proffy-discovery/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-discovery?style=social">
+  </a>
 
-### `npm test`
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center">
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/github/screenshots/banner.png" />
+</h1>
 
-### `npm run build`
+<h4 align="center"> 
+	🚧  Proffy 🏫 Concluído 🚧
+</h4>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+	<a href="#-sobre-o-projeto">Sobre</a> •
+	<a href="#-layout">Layout</a> • 
+ 	<a href="#-como-executar-o-projeto">Como executar</a> • 
+  <a href="#-tecnologias">Tecnologias</a> • 
+ 	<a href="#user-content--licença">Licença</a>
+</p>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💻 Sobre o projeto
 
-### `npm run eject`
+🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🎨 Layout
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+###  Página de listagem dos professores
 
-## Learn More
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/github/screenshots/study.png" width="100%">
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###  Página de cadastro dos professores
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/github/screenshots/give-classes.png" width="100%">
+</p>
 
-### Code Splitting
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## 🚀 Como executar o projeto
 
-### Analyzing the Bundle Size
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+#### 🧭 Rodando a aplicação
 
-### Making a Progressive Web App
+```bash
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+# Clone este repositório
+$ git clone https://github.com/Aoliveiradev/NWL2-DISCOVERY
 
-### Advanced Configuration
+# Acesse a pasta do projeto no seu vscode
+$ cd proffy-discovery
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+# Instale as dependências
+$ npm install
 
-### Deployment
+# Execute a aplicação 
+$ npm start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+# O servidor inciará na porta:5500 - acesse http://localhost:5500 
+```
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[Express](https://expressjs.com/)**
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[JavaScript](https://www.javascript.com)**
+- **[NodeJS](https://nodejs.org/en/)**
+- **[Nodemon](https://github.com/remy/nodemon)**
+- **[Nunjucks](https://github.com/mozilla/nunjucks)**
+- **[SQLite](https://www.sqlite.org/index.html)**
+- **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
+
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE.md).
+
