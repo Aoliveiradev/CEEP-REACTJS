@@ -17,9 +17,8 @@
 
 <p align="center">
 	<a href="#-sobre-o-projeto">Sobre</a> •
-	<a href="#-layout">Layout</a> • 
- 	<a href="#-como-executar-o-projeto">Como executar</a> • 
-  <a href="#-tecnologias">Tecnologias</a> • 
+	<a href="#-como-executar-o-projeto">Como executar</a> • 
+ 	<a href="#-tecnologias">Tecnologias</a> • 
  	<a href="#user-content--licença">Licença</a>
 </p>
 
